@@ -76,5 +76,7 @@ terminando a instalação)
 2 - Após instalar o anaconda, rodar os seguintes comandos como admin no cmd:
 
 conda install pyopengl
+
 conda install -c conda-forge freeglut
+
 python -m pip install PyOpenGL PyOpenGL_accelerate
