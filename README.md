@@ -1,7 +1,6 @@
 Autores: 
 
-William Felipe Tsubota
-Gabriel C. M.
+William Felipe Tsubota e Gabriel C. M.
 
 Linguagem de programação: Python 3.8.3 (anaconda)
 
