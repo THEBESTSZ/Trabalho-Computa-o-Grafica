@@ -72,6 +72,7 @@ Como instalamos o anaconda:
 
 1 - Instalar o anaconda (importante selecionar para salvar as informações no "path"
 terminando a instalação)
+
 2 - Após instalar o anaconda, rodar os seguintes comandos como admin no cmd:
 
 conda install pyopengl
